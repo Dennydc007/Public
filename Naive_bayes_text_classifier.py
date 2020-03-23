@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Made together with Emma Amundsen
+
 # # Essential imports
 
 # In[1]:
